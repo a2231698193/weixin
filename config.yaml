@@ -1,0 +1,10 @@
+# 测试号地址
+# https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+region: '北京' #地区
+appID: 'wx2cb11bd99a032eff' #appID
+appsecret: '8b221757f518a5f0d702d2f76820803d' #appsecret
+template_id: '5t7AwlCsfModEjUilBM_YrznjkKaIA4pHlQuXcVhNN4'#模板id
+location: '101010100'#天气地区id 查询地址 https://github.com/qwd/LocationList/blob/master/China-City-List-latest.csv  -> ctrl + F5 查询
+xlday_num: '2019-12-25' #相恋日期
+birthday: '1995-8-27' #阳历生日
+weather_key: '30c5d49ac5604b1888c9e22b5e43183f' #天气key 注册地址 https://id.qweather.com/#/login?redirect=https%3A%2F%2Fconsole.qweather.com
